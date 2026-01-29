@@ -11,7 +11,6 @@ Objectives:
 
 Help students decide what to study after SSC and HSC
 Suggest career paths based on user skills and interests
-Provide structured career information in PDF format
 Use AI (Gemini API) to generate intelligent responses
 Make the system easy to use and scalable
 
@@ -19,37 +18,28 @@ Project Scope:
 
 Career guidance for SSC and HSC students
 Suggestions for CSE, BBA, Diploma, and skill-based careers
-PDF-based knowledge base stored in Google Drive
 AI-powered chatbot using Gemini API
 
 Technologies to be Used:
 
 Frontend: HTML, CSS
 Backend: PHP / Node.js 
-AI API: Google Gemini API
-Storage: Google Drive (for PDF files)
+AI API: Google Gemini API/others
 Hosting: Localhost / Web Hosting
 
 Project Timeline and Weekly Plan:
 
 Week 1: System Structure & Planning
 Design overall system architecture
-Design database or file structure
 Plan UI layout and chatbot interface
 Finalize career categories and logic
 
-Week 2: Content Creation & PDF Knowledge Base
-Collect career-related information
-Create structured PDF files
-Upload PDFs to Google Drive
-Organize information by category (CSE, BBA, Diploma, Skills)
-Test PDF access and linking
+Week 2: API account and others
+Create Gemini API account and get API key
 
 Week 3: Gemini API Integration
-Create Gemini API account and get API key
 Connect Gemini API with backend
 Train prompt structure for career guidance
-Integrate PDF-based information into chatbot logic
 Test AI responses
 
 Week 4: Full System Integration & Deployment
@@ -61,10 +51,9 @@ Prepare final documentation and presentation
 
 Expected Outcomes:
 
-Fully functional AI Career Guide Chatbot
+Fully AI Career Guide Chatbot
 Accurate career suggestions for students
 Easy-to-use interface
-Organized PDF knowledge base
 AI-powered personalized guidance
 
 Future Enhancements:
